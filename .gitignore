@@ -1,0 +1,5 @@
+.env
+*/*/.env
+*/*/*/*/*.env
+pkg/common/config/envs/*.env
+pkg/common/config/envs/docker-compose.yml
